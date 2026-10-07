@@ -1,2 +1,3 @@
 # Sapna_Demo
-This is my first Git Repositiory
+This is my first Git Repositiory.
+Author - Sapna Maheshwari
